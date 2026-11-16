@@ -109,7 +109,7 @@ The results indicate that image-level classification is stronger than precise pi
 
 The examples below show the stronger localization cases from the generated visual evaluation. Lower-performing examples have been omitted to keep this section focused on representative successful predictions.
 
-![Selected fabric defect localization examples: original image, ground truth, deviation map and prediction](Results/figures/qualitative_results.png)
+!![Fabric defect localization results](Results/figures/examples_best_median_worst.png)
 
 Each row contains:
 
